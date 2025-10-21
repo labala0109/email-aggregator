@@ -45,7 +45,7 @@ This version works without a database and stores emails in memory.
 ├─> Slack Notification (Webhook URL)
 └─> AI Suggested Reply Endpoint
 
-Copy code
+
 
 - **Backend:** Node.js, Express, IMAP-simple, OpenAI API, Socket.IO
 - **Frontend:** HTML, CSS, JavaScript
